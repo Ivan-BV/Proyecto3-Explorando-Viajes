@@ -1,1 +1,1 @@
-url_atrapalo = "https://www.atrapalo.com/actividades/barcelona/barcelona/fin-de-semana/#buscador"
+url_atrapalo = "https://www.atrapalo.com/actividades/barcelona/barcelona/fin-de-semana/p-1"
