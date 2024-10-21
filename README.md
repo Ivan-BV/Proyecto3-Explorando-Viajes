@@ -50,9 +50,9 @@ pip install -r requirements.txt
 - Ampliar la búsqueda de destinos turísticos e incorporar más variables que influyan en la elección de viajes, como el clima o eventos locales.
 - Integrar modelos predictivos para anticipar tendencias en precios de vuelos y alojamientos, mejorando la planificación de viajes.
 - Proponer estrategias para optimizar las recomendaciones en función de los datos recopilados y los perfiles de clientes.
-- Generar gráficos comparativos
-- Proporcionar a los clientes el tiempo que va a hacer durante la estancia
-- Parametrizar las búsquedas de vuelos y hoteles
+- Generar gráficos comparativos para ofrecer un producto personalizado para cada cliente.
+- Proporcionar a los clientes el tiempo que va a hacer durante la estancia.
+- Parametrizar las búsquedas de vuelos y hoteles.
 
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor abre un pull request o una issue en este repositorio.
