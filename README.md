@@ -39,10 +39,7 @@ pip install -r requirements.txt
 
 ## 📊 Resultados y Conclusiones
 
-- **Análisis de Vuelos**: Hemos identificado patrones en las frecuencias de vuelo, horarios y precios en las ciudades seleccionadas. Los vuelos más económicos tienden a estar disponibles en ciertos días de la semana, mientras que los precios fluctúan considerablemente durante las temporadas altas.
-- **Opciones de Alojamiento**: Se encontraron alojamientos que varían desde hoteles familiares hasta apartamentos turísticos con diferentes precios y servicios. Las categorías de alojamiento más demandadas suelen incluir opciones con desayuno y piscina.
-- **Actividades Locales**: Las actividades más populares, como excursiones, visitas culturales y deportes de aventura, varían según el perfil del viajero. Los viajeros en solitario prefieren actividades al aire libre, mientras que los grupos de amigos tienden a elegir opciones más sociales y divertidas.
-
+Tras realizar el analisis correspondiente de los datos hemos determinado lo siguiente:
 
 ### Vuelos
 
