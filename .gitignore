@@ -1,11 +1,3 @@
-#Archivos excluidos
-actividades_bcn_2024-10-20.csv
-actividades_lon_2024-10-20.csv
-hoteles_bcn_2024-10-20.csv
-hoteles_lon_2024-10-20.csv
-vuelos_bcn_2024-10-20.csv
-vuelos_lon_2024-10-20.csv
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
